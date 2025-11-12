@@ -1,0 +1,5 @@
+# Ignorer Docker et fichiers temporaires
+AppData/
+*.sock
+*.log
+*.tmp
