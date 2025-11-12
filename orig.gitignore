@@ -1,5 +1,5 @@
 # Ignorer Docker et fichiers temporaires
-AppData/
+AppData/Local/Docker
 *.sock
 *.log
 *.tmp
